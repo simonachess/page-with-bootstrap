@@ -1,0 +1,19 @@
+header{
+    background-image: url('assets/images/header.jpg');
+    background-repeat: no-repeat;
+    overflow: hidden;
+    background-attachment: scroll;
+    background-size: cover;
+    background-position: TOP center;
+    /* color: white;
+    text-transform: uppercase; */
+}
+
+header .vertical-line{
+height: 2px;
+background-color: #fff;
+width: 150px;
+margin: 0 auto;
+margin-top:30px;
+margin-bottom: 30px;
+}
